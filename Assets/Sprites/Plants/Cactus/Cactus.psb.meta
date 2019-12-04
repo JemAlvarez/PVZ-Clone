@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 4fce7f3a92235b445ab5fe57b58c7dfc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Cactus_flower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 308
+      width: 179
+      height: 138
+    spriteID: c4baeb8515aee764e8278fdd09f7d0c0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -374, y: -358}
+  - name: Cactus_flower_top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 454
+      width: 33
+      height: 33
+    spriteID: f1de445f88bbc32439cc7cd3899e1332
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -212, y: -333}
+  - name: Cactus_lips
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 110
+      width: 71
+      height: 113
+    spriteID: f42a4e02e88a52a4081ee439e6f4f34d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -195, y: -489}
+  - name: Cactus_mouth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 416
+      width: 33
+      height: 58
+    spriteID: 44e1db581c99a1f4b8e5b0c682200ed2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -232, y: -206}
+  - name: Cactus_arm1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 4
+      width: 125
+      height: 238
+    spriteID: f86fc07878c3f184087c3c88cd2d051a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: -443}
+  - name: Cactus_arm1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 4
+      width: 117
+      height: 98
+    spriteID: 1a0bf90447508d749b0469b5048812d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 71, y: -464}
+  - name: Cactus_arm2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 250
+      width: 104
+      height: 158
+    spriteID: 9d99331c4413d97488715cd8b16aae69
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -349, y: -224}
+  - name: Cactus_arm2_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 416
+      width: 63
+      height: 92
+    spriteID: e512454a772a9ba4fa605d3918ace5b6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -338, y: -58}
+  - name: Cactus_body1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 246
+      height: 296
+    spriteID: bba2da8670992c145bb99511f9185151
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -366, y: -456}
+  - name: Cactus_body_overlay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 454
+      width: 200
+      height: 54
+    spriteID: ef968a1b14a8c5a4a96bf41854480cc9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -408, y: 40}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 1024, y: 1024}
+  paperDollMode: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Cactus_flower
+    spriteName: Cactus_flower
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c4baeb8515aee764e8278fdd09f7d0c0
+    layerID: 2
+    mosaicPosition: {x: 4, y: 308}
+  - name: Cactus_flower_top
+    spriteName: Cactus_flower_top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f1de445f88bbc32439cc7cd3899e1332
+    layerID: 16
+    mosaicPosition: {x: 212, y: 454}
+  - name: Cactus_lips
+    spriteName: Cactus_lips
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f42a4e02e88a52a4081ee439e6f4f34d
+    layerID: 15
+    mosaicPosition: {x: 391, y: 110}
+  - name: Cactus_mouth
+    spriteName: Cactus_mouth
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44e1db581c99a1f4b8e5b0c682200ed2
+    layerID: 14
+    mosaicPosition: {x: 329, y: 416}
+  - name: Cactus_arm1_1
+    spriteName: Cactus_arm1_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f86fc07878c3f184087c3c88cd2d051a
+    layerID: 13
+    mosaicPosition: {x: 258, y: 4}
+  - name: Cactus_arm1_2
+    spriteName: Cactus_arm1_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a0bf90447508d749b0469b5048812d6
+    layerID: 12
+    mosaicPosition: {x: 391, y: 4}
+  - name: Cactus_arm2_1
+    spriteName: Cactus_arm2_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9d99331c4413d97488715cd8b16aae69
+    layerID: 11
+    mosaicPosition: {x: 258, y: 250}
+  - name: Cactus_arm2_2
+    spriteName: Cactus_arm2_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e512454a772a9ba4fa605d3918ace5b6
+    layerID: 10
+    mosaicPosition: {x: 258, y: 416}
+  - name: Cactus_body1
+    spriteName: Cactus_body1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bba2da8670992c145bb99511f9185151
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4}
+  - name: Cactus_body_overlay
+    spriteName: Cactus_body_overlay
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef968a1b14a8c5a4a96bf41854480cc9
+    layerID: 4
+    mosaicPosition: {x: 4, y: 454}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Cactus
+  prefabAssetName: Cactus_GO
+  spriteLibAssetName: 

@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: e39918a748294c348bdd91aab6598faf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: SunFlower_head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 533
+      width: 209
+      height: 158
+    spriteID: 95293daf68522da42bba7bcf73f7770e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -411, y: -71}
+  - name: SunFlower_double_petals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 279
+      width: 317
+      height: 246
+    spriteID: 1b422e281f2c99a488732365c75186b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -357, y: -281}
+  - name: Pot_leaf1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 471
+      width: 50
+      height: 38
+    spriteID: 3a70ac1bc70c2224794ed6434646106b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -188, y: -35}
+  - name: Pot_leaf2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 279
+      width: 50
+      height: 33
+    spriteID: 40c098d6606b30e4383e1609c4fc6804
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -35, y: -232}
+  - name: Blover_stem2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 375
+      width: 71
+      height: 88
+    spriteID: 73d830359e67cd140bdc3a76288ccc55
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -149, y: -66}
+  - name: Blover_stem1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 329
+      y: 279
+      width: 92
+      height: 88
+    spriteID: a2b35b6ff4e3c0141b04e83ea5fadecc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -142, y: -232}
+  - name: Pot_top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 346
+      height: 267
+    spriteID: ab09a9dace5fcd940a87175dc7a68179
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -357, y: -323}
+  - name: Pot_bottom2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 533
+      width: 279
+      height: 88
+    spriteID: 23c09902eaa2b0c42b0e772fbc89b481
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -174, y: 235}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 1024, y: 1024}
+  paperDollMode: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: SunFlower_head
+    spriteName: SunFlower_head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 95293daf68522da42bba7bcf73f7770e
+    layerID: 2
+    mosaicPosition: {x: 4, y: 533}
+  - name: SunFlower_double_petals
+    spriteName: SunFlower_double_petals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1b422e281f2c99a488732365c75186b4
+    layerID: 3
+    mosaicPosition: {x: 4, y: 279}
+  - name: Pot_leaf1
+    spriteName: Pot_leaf1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3a70ac1bc70c2224794ed6434646106b
+    layerID: 9
+    mosaicPosition: {x: 329, y: 471}
+  - name: Pot_leaf2
+    spriteName: Pot_leaf2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40c098d6606b30e4383e1609c4fc6804
+    layerID: 8
+    mosaicPosition: {x: 429, y: 279}
+  - name: Blover_stem2
+    spriteName: Blover_stem2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73d830359e67cd140bdc3a76288ccc55
+    layerID: 6
+    mosaicPosition: {x: 329, y: 375}
+  - name: Blover_stem1
+    spriteName: Blover_stem1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2b35b6ff4e3c0141b04e83ea5fadecc
+    layerID: 5
+    mosaicPosition: {x: 329, y: 279}
+  - name: Pot_top
+    spriteName: Pot_top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ab09a9dace5fcd940a87175dc7a68179
+    layerID: 10
+    mosaicPosition: {x: 4, y: 4}
+  - name: Pot_bottom2
+    spriteName: Pot_bottom2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23c09902eaa2b0c42b0e772fbc89b481
+    layerID: 12
+    mosaicPosition: {x: 221, y: 533}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Sunflower
+  prefabAssetName: Sunflower_GO
+  spriteLibAssetName: 
